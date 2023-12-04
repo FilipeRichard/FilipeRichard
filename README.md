@@ -1,16 +1,29 @@
-### Hi there 👋
+# Boas vindas_🤝
+### Olá, eu sou Filipe Richard!
+Apaixonado por tecnologias computacionis, sempre busco sempre saber mais sobre este mundo "algoritmizado" , visando um futuro melhor e mais prático para as pessoas.
 
-<!--
-**FilipeRichard/FilipeRichard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+______________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estudos
+- Atualmente estudando:<strong> Python, Java Script, HTML e CSS </strong>  
+- Pretendo estudar: <strong>IA (Inteligência Artificial), UX/UI (desing)</strong>
+- Pretendo estudar (+outros): <strong>Pothoshop, Video Making... </strong>
+- Linguagens que pretendo dominar: <strong>IA (Inteligência Artificial), UX/UI, Java Script, HTML e CSS</strong>
+- Áreas que pretendo atuar: <strong>Desenvolvedor Full Stack</strong>
+
+______________________________________________________
+### Linguagens sendo utilizadas atualmente
+![Anurag's GitHub stats](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Anurag's GitHub stats](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Anurag's GitHub stats](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Anurag's GitHub stats](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+______________________________________________________
+### Redes sociais
+[![Anurag's GitHub stats](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-richard-4629b226a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWnBq1zjeS%2Fi6xTPnx%2FY43Q%3D%3D)  [![Anurag's GitHub stats](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richar_dev/)
+______________________________________________________
+
+### Contato(s)
+[![Anurag's GitHub stats](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](filpcharprog@gmail.com)
