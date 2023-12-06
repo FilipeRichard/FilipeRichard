@@ -1,4 +1,4 @@
-# Boas vindas_🤝
+![Anurag's GitHub stats](https://github.com/FilipeRichard/FilipeRichard/assets/150796685/679d67b4-70dd-4a39-8761-ad70e320e7e8)
 ### Olá, eu sou Filipe Richard!
 Apaixonado por tecnologias computacionis, sempre busco sempre saber mais sobre este mundo "algoritmizado" , visando um futuro melhor e mais prático para as pessoas.
 
