@@ -1,6 +1,6 @@
 # BOAS VINDAS 🤝
 ### Olá, eu sou Filipe Richard!
-Apaixonado por tecnologias computacionis, sempre busco sempre saber mais sobre este mundo "algoritmizado" , visando um futuro melhor e mais prático para as pessoas.
+Apaixonado por tecnologias computacionais, sempre busco sempre saber mais sobre este mundo "algoritmizado" , visando um futuro melhor e mais prático para as pessoas.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
